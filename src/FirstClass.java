@@ -7,6 +7,7 @@ public class FirstClass {
             System.out.println("They are equal");
         }else{
             System.out.println("They are not equal");
+            //I am understanding this
         }
     }
 }
