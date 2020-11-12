@@ -9,6 +9,7 @@ public class FirstClass {
             System.out.println("They are not equal");
             //I am understanding this
             //b21 I am back
+            //the head is where the last work is done
         }
     }
 }
